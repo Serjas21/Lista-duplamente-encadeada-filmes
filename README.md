@@ -1,5 +1,5 @@
 
-# 🎬 CineList Manager - Sistema de Gerenciamento de Filmes
+# 🎬 Sistema de Gerenciamento de Filmes
 
 Este é um sistema desenvolvido em C que utiliza estruturas de dados dinâmicas para gerenciar usuários e suas respectivas listas de filmes assistidos. O projeto foca no uso eficiente de memória e na organização modular de código.
 

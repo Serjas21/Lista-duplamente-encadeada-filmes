@@ -200,7 +200,7 @@ int filmesParecidos(No** li, char* email1, char* email2){
         }
         lista = lista->prox;
     }
-    printf("\nos filmes iguais de %s e %s são %d\n", email1, email2, somador);
+    printf("\nos filmes iguais de %s e %s sao %d\n", email1, email2, somador);
     return 1;
 }
 

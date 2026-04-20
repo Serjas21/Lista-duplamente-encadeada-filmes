@@ -43,8 +43,3 @@ Para que o carregamento automático funcione, o arquivo deve seguir este padrão
 U-email-senha (Para Usuários)
 
 F-email-nomeDoFilme (Para Filmes)
-exemplo:
-
-U-joao@email.com-1234 (para cadastrar o usuário)
-
-F-joao@email.com-Matrix (para registrar os filmes)
